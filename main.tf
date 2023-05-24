@@ -1,0 +1,2 @@
+# Define all your resources here that this module should create, if you exceede 200 lines,
+# consider spliting the .tf files per resource_type but keep in mind to always include main.tf even though it's empty.
